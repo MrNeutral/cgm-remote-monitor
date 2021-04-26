@@ -152,8 +152,5 @@
       "value": "12",
       "required": false 
     }
-  },
-  "addons": [
-    "papertrail"
-  ]
+  }
 }
